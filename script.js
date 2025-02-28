@@ -89,3 +89,4 @@ const deleteAllTasks = function () {
 const saveToLocalStorage = function () {
   localStorage.setItem("todo", JSON.stringify(todo));
 };
+console.log("Welcome to To-Do List App");
