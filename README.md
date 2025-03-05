@@ -24,8 +24,6 @@ JavaScript: Functionality for adding, editing, deleting, and marking tasks as co
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and create a pull request. You can also open an issue if you find any bugs or have suggestions for improvements.
 
-You may not use, modify, or distribute this code without permission from me.
-
 Acknowledgements
 This app was created by Casey Rynkowski.
 Thanks to the open-source community for their helpful contributions to web development!
